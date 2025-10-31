@@ -1,4 +1,5 @@
 <img width="1192" height="672" alt="Screenshot 2025-10-24 140703" src="https://github.com/user-attachments/assets/6401badc-e616-4ec0-ae50-70cff943c412" />
+
 🚗 Intelligent License Plate Fraud Detection System (ILPFDS)
 
 Fraudulent license plates pose a growing security and financial risk. Criminals often alter or forge plates to hide vehicle identities, enabling crimes like smuggling, theft, and toll evasion.
